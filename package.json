@@ -47,7 +47,7 @@
     "@types/helmet": "0.0.45",
     "@types/md5": "^2.1.33",
     "@types/morgan": "^1.7.37",
-    "@types/node-fetch": "^2.5.4",
+    "@types/node-fetch": "^2.6.2",
     "cross-env": "^7.0.0",
     "typescript": "^3.7.5"
   }
