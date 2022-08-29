@@ -46,7 +46,7 @@
     "@types/fluent-ffmpeg": "^2.1.13",
     "@types/helmet": "0.0.45",
     "@types/md5": "^2.1.33",
-    "@types/morgan": "^1.7.37",
+    "@types/morgan": "^1.9.3",
     "@types/node-fetch": "^2.5.4",
     "cross-env": "^7.0.0",
     "typescript": "^3.7.5"
