@@ -49,6 +49,6 @@
     "@types/morgan": "^1.7.37",
     "@types/node-fetch": "^2.5.4",
     "cross-env": "^7.0.0",
-    "typescript": "^3.7.5"
+    "typescript": "^4.9.3"
   }
 }
